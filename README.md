@@ -1,2 +1,2 @@
 # kson_modlist
-repository of kson files to use with wabbajank
+repository of mod build instruction sets to use with KOTORganizer
